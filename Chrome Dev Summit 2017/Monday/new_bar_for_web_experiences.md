@@ -1,0 +1,11 @@
+- 60% of all mobile connections are still 2G
+- PWAs are great
+- App Shells are great
+- AMP = "Fast interactive web pages. Smaller web pages."
+- AMP is great
+- Tasty.co
+    - First meaningful paint < 3sec
+    - Responsive
+- Should be consistent native experience
+    - Media integration
+- Push notifications
